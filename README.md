@@ -62,10 +62,14 @@
 
 ---
 
-### 🐍 Змейка коммитов
+### 🐍 Активность коммитов
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JustAGuyFromTheZoo/JustAGuyFromTheZoo/output/snake.svg" alt="snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JustAGuyFromTheZoo/JustAGuyFromTheZoo/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JustAGuyFromTheZoo/JustAGuyFromTheZoo/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/JustAGuyFromTheZoo/JustAGuyFromTheZoo/output/snake.svg"/>
+  </picture>
 </p>
 
 ---
@@ -79,25 +83,71 @@
 
 ### 🚀 Избранные проекты
 
+#### 💼 Бизнес и финансы
+
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/JustAGuyFromTheZoo/FinManager_bot">FinManager_bot</a></h3>
-      <p>Телеграм-бот для отслеживания финансов: доходы, траты, статистика, советы и аналитика.</p>
-      <p>
-        <a href="https://github.com/JustAGuyFromTheZoo/FinManager_bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=FinManager_bot&theme=radical" alt="FinManager_bot"/>
-        </a>
-      </p>
+      <a href="https://github.com/JustAGuyFromTheZoo/KeysHunter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=KeysHunter&theme=radical" alt="KeysHunter"/>
+      </a>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/JustAGuyFromTheZoo/PictureGallery">PictureGallery</a></h3>
-      <p>Онлайн-галерея изображений с системой категорий, загрузкой и просмотром в реальном времени.</p>
-      <p>
-        <a href="https://github.com/JustAGuyFromTheZoo/PictureGallery">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=PictureGallery&theme=radical" alt="PictureGallery"/>
-        </a>
-      </p>
+      <a href="https://github.com/JustAGuyFromTheZoo/EFRSB-XML">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=EFRSB-XML&theme=radical" alt="EFRSB-XML"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/NBKI-GUTDF-dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=NBKI-GUTDF-dev&theme=radical" alt="NBKI-GUTDF-dev"/>
+      </a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+#### 🧠 ИИ и автоматизация
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/KeysHunter-TGbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=KeysHunter-TGbot&theme=radical" alt="KeysHunter-TGbot"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/YTshorts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=YTshorts&theme=radical" alt="YTshorts"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/FinManager_bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=FinManager_bot&theme=radical" alt="FinManager_bot"/>
+      </a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+#### 🌐 Веб и лендинги
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/CarBuy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=CarBuy&theme=radical" alt="CarBuy"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/JustAGuyFromTheZoo/PictureGallery">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustAGuyFromTheZoo&repo=PictureGallery&theme=radical" alt="PictureGallery"/>
+      </a>
     </td>
   </tr>
 </table>
